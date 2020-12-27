@@ -1,2 +1,2 @@
-# Stone-Age
-Projet Python Licence Pro DAGPI
+# Stone Age
+
